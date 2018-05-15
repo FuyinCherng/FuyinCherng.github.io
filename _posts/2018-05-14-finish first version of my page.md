@@ -1,7 +1,7 @@
 ---
 layout: post
-title: test
-date: 2017-09-21
+title: finish first version of my page
+date: 2018-05-14
 ---
 
-This is the post for test
+finish first version of my page
