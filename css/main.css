@@ -50,6 +50,11 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+    width: 50%;
+    height: auto;
+}
+
 .button {
     background-color: #555555;
     border: none;
