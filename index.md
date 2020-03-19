@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Hello!
-I'm Fu-Yin Cherng (程芙茵), currently a postdoctoral researcher at the University of California, Davis. I designed interdisciplinary research plans (e.g., human-computer interaction, data science, and cognitive neuroscience) for evaluating users’ behaviors and perceptions qualitatively and quantitatively to the industrial and academic collaborators.
+I'm Fu-Yin Cherng (程芙茵), currently a postdoctoral researcher at the University of California, Davis. I design interdisciplinary research plans (e.g., human-computer interaction, data science, and cognitive neuroscience) for evaluating users’ behaviors and perceptions qualitatively and quantitatively to the industrial and academic collaborators.
 
-I start working with [Prof. Hao-Chuan Wang](http://www.haochuanwang.info/) at [UC Davis](https://www.ucdavis.edu/) in Nov. 2019. I was a doctoral research assistant in the [CHILI Lab](https://www.epfl.ch/labs/chili/) at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) from 2016 to 2017. During 2013 to 2019, I was a research assistant and PhD Candidate in the [Graphics and Perception Labs](https://gpl.cs.nctu.edu.tw) lead by [Prof Wen-Chieh Lin](https://gpl.cs.nctu.edu.tw/Steve-Lin/) at [NCTU](https://www.nctu.edu.tw/).
+I start working with [Prof. Hao-Chuan Wang](http://www.haochuanwang.info/) at [UC Davis](https://www.ucdavis.edu/) in 2019. I was a doctoral research assistant in the [CHILI Lab](https://www.epfl.ch/labs/chili/) at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) from 2016 to 2017. During 2013 to 2019, I was a research assistant and PhD Candidate in the [Graphics and Perception Labs](https://gpl.cs.nctu.edu.tw) lead by [Prof Wen-Chieh Lin](https://gpl.cs.nctu.edu.tw/Steve-Lin/) at [NCTU](https://www.nctu.edu.tw/).
 
 # Research Projects
 ## Social Preference Effect in E-Commerce Context
