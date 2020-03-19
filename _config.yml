@@ -1,0 +1,8 @@
+title: Fu-Yin Cherng
+logo: /assets/img/profile_2.jpg
+description: Welcom!
+intro: I'm a researcher of user experience, human-computer interaction, and data science. I'm interested in knowing users' perceptions by behavioral and cognitive measures.
+show_links: true
+
+plugins:
+  - jekyll-seo-tag
