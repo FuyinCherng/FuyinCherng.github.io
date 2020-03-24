@@ -39,7 +39,7 @@ We not only uncovered the underlying cognitive states to complement the results 
 
 _Technologies: Physiological Data Analysis, Experiment Design, Cognitive Psychology_
 
-Resource: [[Paper - CHI 2014]](https://dl.acm.org/citation.cfm?id=2557076)[[Paper - CHI 2016]](https://dl.acm.org/citation.cfm?id=2858133)[[Slides - CHI 2016]](docs/CHI2016_slides.pdf)[[Video]](https://www.youtube.com/watch?v=ElV_1hyAsm8)
+Resource: [[Paper - CHI 2014 (Honorable Mention Award)]](https://dl.acm.org/citation.cfm?id=2557076)[[Paper - CHI 2016 (Honorable Mention Award)]](https://dl.acm.org/citation.cfm?id=2858133)[[Slides - CHI 2016]](docs/CHI2016_slides.pdf)[[Video]](https://www.youtube.com/watch?v=ElV_1hyAsm8)
 
 ******
 
