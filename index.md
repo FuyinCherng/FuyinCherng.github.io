@@ -32,7 +32,7 @@ Resource: [[Paper]](https://dl.acm.org/citation.cfm?id=3300639)[[Slides]](docs/C
 
 ## Brain Sensing Techniques on Evaluating Design and Usability
 ![project_vreeg](assets/img/Pro_EEGIcon.png)
-_2014 - 2018, Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
+_2014 - 2018, National Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
 
 We collected users' brain signals (i.e., Electroencephalography, short for EEG) and applied Matlab toolboxes to process brain signals for offline and online analysis.
 We not only uncovered the underlying cognitive states to complement the results of behavioral and self-report evaluation, but also delivered design suggestions which based on cognitive evidences.
@@ -45,7 +45,7 @@ Resource: [[Paper - CHI 2014 (Honorable Mention Award)]](https://dl.acm.org/cita
 
 ## Time-anchored Peer Comments in Online Learning
 ![project_vreeg](assets/img/Pro_Taping.png)
-_2015 - 2017, Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
+_2015 - 2017, National Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
 
 We designed an online learning website with an interactive commenting system and prototyped interface to visualize comments with topic and sentiment analysis. Usability testing and factorial experiment with learners and instructors was conducted to evaluate the effect and desired benefits of our systems. We reported the evaluation result in both qualitatively and quantitatively fashions.
 
