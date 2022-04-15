@@ -16,7 +16,7 @@ _2019 - Present, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid 
 We studied users' internal and external preference and effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
 
 _Technologies: Social Computing, Neuromarketing, Virtual Reality_
-
+Resource: [[Paper - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 ******
 
 ## Large-scale Online Studies for Graphic and Audio Icons
@@ -27,7 +27,7 @@ We collected and curated massive data with over 2k online workers rated 10k icon
 
 _Technologies: Full-stack Development, Data-driven Design, Convolutional Neural Network_
 
-Resource: [[Paper]](https://dl.acm.org/citation.cfm?id=3300639)[[Slides]](docs/CHI19_MusicalParameters.pdf)[[Video]](https://www.youtube.com/watch?v=_uW_ibwi3Qs)[[Github]](https://github.com/FuyinCherng/CHI18_EEGAudioNoti)
+Resource: [[Paper - CHI 2019]](https://dl.acm.org/citation.cfm?id=3300639)[[Slides]](docs/CHI19_MusicalParameters.pdf)[[Video]](https://www.youtube.com/watch?v=_uW_ibwi3Qs)[[Github]](https://github.com/FuyinCherng/CHI18_EEGAudioNoti)
 
 ******
 
