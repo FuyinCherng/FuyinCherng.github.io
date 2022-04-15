@@ -17,6 +17,7 @@ We studied users' internal and external preference and effects of social conform
 
 _Technologies: Social Computing, Neuromarketing, Virtual Reality_
 Resource: [[Paper - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
+
 ******
 
 ## Large-scale Online Studies for Graphic and Audio Icons
