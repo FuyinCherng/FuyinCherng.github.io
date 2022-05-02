@@ -16,7 +16,8 @@ _2019 - Present, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid 
 We studied users' internal and external preference and effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
 
 _Technologies: Social Computing, Neuromarketing, Virtual Reality_
-Resource: [[Paper - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
+
+Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Info - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
 ******
 
@@ -94,6 +95,8 @@ Keras, PyTorch, Numpy, Pandas, Scikit-learn, Gensim, OpenCV, PIL, Firebase, Jupy
 
 # Selected Publications
 _Here are my selected publications. Please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=RNihHkMAAAAJ&hl=zh-TW) or [dblp](https://dblp.org/pers/c/Cherng:Fu=Yin.html) for my complete publication list._
+
+**Fu-Yin Cherng**, Jingchao Fang, Yinhao Jiang, Xin Chen, Taejun Choi, Hao-Chuan Wang. "Understanding Social Influence in Collective Product Ratings Using Behavioral and Cognitive Metrics". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2022. [[paper]](https://dl.acm.org/doi/10.1145/3491102.3517726)[[video]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
 **Fu-Yin Cherng**, Wen-Chieh Lin, Jung-Tai King, Yi-Chen Lee. ”Measuring the Influences of Musical Parameters on Cognitive and Behavioral Responses to Audio Notifications Using EEG and Large-scale Online Studies” Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3300639)[[slides]](docs/CHI19_MusicalParameters.pdf)[[video]](https://www.youtube.com/watch?v=_uW_ibwi3Qs)[[Github]](https://github.com/FuyinCherng/CHI18_EEGAudioNoti)
 
