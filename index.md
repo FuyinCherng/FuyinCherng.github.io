@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Hello!
+I'm Fu-Yin Cherng (程芙茵). I'm a tenure-track assistant professor in the Department of Computer Science and Information Engineering at the National Chung Cheng University (2021-present) and the principal researcher of [Cognition and User Technology (CUTY) Lab](https://sites.google.com/view/cutylab/home). I conduct interdisciplinary research (human-computer interaction, data science, and sensing of physiological data) for evaluating users’ behavior, perceptions, and cognition qualitatively and quantitatively for the industrial and academic collaborators. My research interests include Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
 
 Welcome! I am Fu-Yin Cherng (程芙茵), currently serving as a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University. My journey here began in 2021, and I am also the proud principal researcher at the Cognition and User Technology (CUTY) Lab. My research is a tapestry of various disciplines, weaving together human-computer interaction, data science, and the sensing of physiological data. At the heart of my work is a passion for understanding and enhancing how users interact with technology, both in academic and industrial settings. My areas of expertise span across Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
 
