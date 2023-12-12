@@ -3,15 +3,18 @@ layout: default
 ---
 
 # Hello!
-I'm Fu-Yin Cherng (程芙茵). I'm a tenure-track assistant professor in the Department of Computer Science and Information Engineering at the National Chung Cheng University (2021-present). I conduct interdisciplinary research (human-computer interaction, data science, and sensing of physiological data) for evaluating users’ behavior, perceptions, and cognition qualitatively and quantitatively for the industrial and academic collaborators. My research interests include Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
 
+Welcome! I am Fu-Yin Cherng (程芙茵), currently serving as a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University. My journey here began in 2021, and I am also the proud principal researcher at the Cognition and User Technology (CUTY) Lab. My research is a tapestry of various disciplines, weaving together human-computer interaction, data science, and the sensing of physiological data. At the heart of my work is a passion for understanding and enhancing how users interact with technology, both in academic and industrial settings. My areas of expertise span across Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
 
-From 2020 to 2021, I conducted my postdoctoral research with [Prof. Bing-Yu Chen](http://graphics.im.ntu.edu.tw/~robin/) in the Department of Information Management at the National Taiwan University. I started working with [Prof. Hao-Chuan Wang](http://www.haochuanwang.info/) at [UC Davis](https://www.ucdavis.edu/) as a postdoctoral researcher during 2019 to 2020. I was a doctoral research assistant in the [CHILI Lab](https://www.epfl.ch/labs/chili/) at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/home/) from 2016 to 2017. During 2013 to 2019, I was a research assistant and PhD Candidate in the [Graphics and Perception Labs](https://gpl.cs.nctu.edu.tw) lead by [Prof Wen-Chieh Lin](https://gpl.cs.nctu.edu.tw/Steve-Lin/) at [NCTU](https://www.nctu.edu.tw/).
+Prior to my current role, I delved into postdoctoral research with Prof. Bing-Yu Chen in the Department of Information Management at National Taiwan University from 2020 to 2021. This followed an enriching period at UC Davis from 2019 to 2020, where I worked alongside Prof. Hao-Chuan Wang as a postdoctoral researcher. My academic journey also includes a significant tenure as a doctoral research assistant in the CHILI Lab at École polytechnique fédérale de Lausanne (EPFL) between 2016 and 2017. The foundation of my research career was laid at NCTU, where from 2013 to 2019, I was a research assistant and a PhD candidate under the guidance of Prof. Wen-Chieh Lin in the Graphics and Perception Labs.
+
+I invite you to explore my website and learn more about my research, projects, and collaborations. Welcome to my world of exploring the synergies between technology and human cognition!
+
 
 # Research Projects
 ## Social Preference Effect in E-Commerce Context
 ![project_vreeg](assets/img/Pro_vreeg.png)
-_2019 - Present, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid Labs](https://looxidlabs.com/mobile-home/)_
+_2019 - present, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid Labs](https://looxidlabs.com/mobile-home/)_
 
 We studied users' internal and external preference and effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
 
@@ -96,7 +99,9 @@ Keras, PyTorch, Numpy, Pandas, Scikit-learn, Gensim, OpenCV, PIL, Firebase, Jupy
 # Selected Publications
 _Here are my selected publications. Please refer to [Google Scholar](https://scholar.google.com.hk/citations?user=RNihHkMAAAAJ&hl=zh-TW) or [dblp](https://dblp.org/pers/c/Cherng:Fu=Yin.html) for my complete publication list._
 
-**Fu-Yin Cherng**, Jingchao Fang, Yinhao Jiang, Xin Chen, Taejun Choi, Hao-Chuan Wang. "Understanding Social Influence in Collective Product Ratings Using Behavioral and Cognitive Metrics". Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2022. [[paper]](https://dl.acm.org/doi/10.1145/3491102.3517726)[[video]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
+I-Chao Shen, **Fu-Yin Cherng**, Takeo Igarashi, Wen-Chieh Lin, Bing-Yu Chen. "EvIcon: Designing High-Usability Icon with Human-in-the-loop Exploration and IconCLIP." Computer Graphics Forum, 2023 (SCI). [[paper]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14924)
+
+**Fu-Yin Cherng**, Jingchao Fang, Yinhao Jiang, Xin Chen, Taejun Choi, Hao-Chuan Wang. "Understanding Social Influence in Collective Product Ratings Using Behavioral and Cognitive Metrics" Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2022. [[paper]](https://dl.acm.org/doi/10.1145/3491102.3517726)[[video]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
 **Fu-Yin Cherng**, Wen-Chieh Lin, Jung-Tai King, Yi-Chen Lee. ”Measuring the Influences of Musical Parameters on Cognitive and Behavioral Responses to Audio Notifications Using EEG and Large-scale Online Studies” Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. ACM, 2019. [[paper]](https://dl.acm.org/citation.cfm?id=3300639)[[slides]](docs/CHI19_MusicalParameters.pdf)[[video]](https://www.youtube.com/watch?v=_uW_ibwi3Qs)[[Github]](https://github.com/FuyinCherng/CHI18_EEGAudioNoti)
 
