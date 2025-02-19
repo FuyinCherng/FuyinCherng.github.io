@@ -4,9 +4,7 @@ layout: default
 
 # Hello!
 I am Fu-Yin Cherng (程芙茵), currently serving as a tenure-track assistant professor in the [Department of Computer Science and Information Engineering at National Chung Cheng University](https://cs.ccu.edu.tw/?Lang=en). 
-I also served as a committee member for the [Best Practices Working Group](https://sigchi.org/people/all-committees/) in SIGCHI.
-
-My research combines human-computer interaction, data science, and physiological sensing to enhance user interactions with technology. My areas of expertise include Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
+My research combines human-computer interaction and physiological sensing to enhance user interactions with technology. My areas of expertise include Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
 I have had the privilege to work with renowned professors and researchers in various institutions. I was a research assistant and a Ph.D. candidate (advisor: [Prof. Wen-Chieh (Steve) Lin](https://gpl.cs.nctu.edu.tw/members/)) at National Yang-Ming Chiao Tung University from 2013 to 2019, then worked as a doctoral research assistant at École Polytechnique fédérale de Lausanne (EPFL) from 2016-2017. Later, I worked as a postdoctoral researcher at UC Davis with [Prof. Hao-Chuan Wang](https://www.haochuanwang.info/) in 2019-2020 and with [Prof. Bing-Yu Chen](http://graphics.im.ntu.edu.tw/~robin/) at National Taiwan University in 2020-2021.
 
 
@@ -29,7 +27,7 @@ Yi-Chen Lee, **Fu-Yin Cherng**, Wen-Chieh Lin, Jung-Tai King. ”To Repeat or No
 ![project_vreeg](assets/img/Pro_vreeg.png)
 _2019 - present, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid Labs](https://looxidlabs.com/mobile-home/)_
 
-We studied users' internal and external preference and effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
+We studied users' internal and external preferences and the effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
 
 _Technologies: Social Computing, Neuromarketing, Virtual Reality_
 
@@ -41,7 +39,7 @@ Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [
 ![project_vreeg](assets/img/Pro_LargeScale.png)
 _2017 - 2019, National Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
 
-We collected and curated massive data with over 2k online workers rated 10k icons and achieved accuracy of 85% on predicting users' feedback using CNN models. The feature space of icons with different functions was constructed using Siamese network. Moreover, we studied effects of demographics, experience, and contexts on feedback to icons.
+We collected and curated massive data with over 2k online workers rated 10k icons and achieved an accuracy of 85% on predicting users' feedback using CNN models. The feature space of icons with different functions was constructed using the Siamese network. Moreover, we studied the effects of demographics, experience, and contexts on feedback to icons.
 
 _Technologies: Full-stack Development, Data-driven Design, Convolutional Neural Network_
 
@@ -54,7 +52,7 @@ Resource: [[Paper - CHI 2019]](https://dl.acm.org/citation.cfm?id=3300639)[[Slid
 _2014 - 2018, National Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
 
 We collected users' brain signals (i.e., Electroencephalography, short for EEG) and applied Matlab toolboxes to process brain signals for offline and online analysis.
-We not only uncovered the underlying cognitive states to complement the results of behavioral and self-report evaluation, but also delivered design suggestions which based on cognitive evidences.
+We not only uncovered the underlying cognitive states to complement the results of the behavioral and self-report evaluation but also delivered design suggestions based on cognitive evidence.
 
 _Technologies: Physiological Data Analysis, Experiment Design, Cognitive Psychology_
 
@@ -66,7 +64,7 @@ Resource: [[Paper - CHI 2014 (Honorable Mention Award)]](https://dl.acm.org/cita
 ![project_vreeg](assets/img/Pro_Taping.png)
 _2015 - 2017, National Chiao Tung University, [Graphics and Perception Lab](https://gpl.cs.nctu.edu.tw)_
 
-We designed an online learning website with an interactive commenting system and prototyped interface to visualize comments with topic and sentiment analysis. Usability testing and factorial experiment with learners and instructors was conducted to evaluate the effect and desired benefits of our systems. We reported the evaluation result in both qualitatively and quantitatively fashions.
+We designed an online learning website with an interactive commenting system and prototyped an interface to visualize comments with topic and sentiment analysis. Usability testing and factorial experiments with learners and instructors were conducted to evaluate the effect and desired benefits of our systems. We reported the evaluation result in both qualitative and quantitative fashions.
 
 _Technologies: Online Learning, Visualization, Usability Testing, Statistical Analysis_
 
