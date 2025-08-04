@@ -40,20 +40,20 @@ Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [
 ******
 
 ## Couese and Teaching Statement
-As a student who struggles with traditional assessments like exams, I advocate for project-based learning and believe collaborative learning is essential. Encouraging students to take **ownership of their learning** is more important than simply lecturing. This ownership motivates proactive engagement in their education. To support this, I design various in-class activities and open discussions, along with semester-long group projects that showcase diverse competencies. 
-Additionally, I have taught several English as a Medium of Instruction (EMI) courses, which I believe are crucial for helping students connect with the international community. I have also earned a certificate in EMI Skills from Cambridge English.
-In terms of feedback, I have received a mean score of 4.67 out of 5 in student feedback surveys (with a response rate exceeding 60%) and was awarded the Excellent Courses Award (教學意見調查優良課程) at National Chung Cheng University.
+As a student who struggles with traditional assessments like exams, I advocate for **project-based learning** and believe **collaborative learning** is essential. To support this, I design various in-class activities and open discussions, along with semester-long group projects that showcase diverse competencies. Also, I have taught several English as a Medium of Instruction (EMI) courses, which I believe are crucial for helping students connect with the international community. 
 
 ### Programming Design I & II
 - This mandatory undergraduate EMI course is taught from 2021 to 2025, introducing foundational programming in C.
 - The average class size is approximately 100 students each year.
 - The course consistently receives a mean feedback score of no lower than 4.5 out of 5 each year.
+
 [ [Example Syllabus: Program Design I] ](docs/PD1.pdf) [ [Example Syllabus: Program Design II] ](docs/PD2.pdf) [ [Example of Project Description] ](docs/PD2_Project.pdf)
 
 ### Human-Computer Interaction and Method of User Research 
-- This optional graduate course is taught in 2022 (EMI) and 2023, introducing Human-Computer Interaction and basic research methods.
+- This optional graduate course is taught in 2022 (EMI) and 2023, introducing Human-Computer Interaction.
 - The average class size is approximately 20 students, and I actively engaged them through in-class activities such as group discussions, design thinking exercises, and innovative collaborative games. 
-- The course was awarded the Excellent Courses Award and received a mean feedback score of nearly 4.9 out of 5.
+- The course was awarded the Excellent Courses Award (教學意見調查優良課程) and received a mean feedback score of nearly 4.9 out of 5.
+
 [Example Syllabus](docs/HCI_MUR.pdf)
 
 ## Grants
