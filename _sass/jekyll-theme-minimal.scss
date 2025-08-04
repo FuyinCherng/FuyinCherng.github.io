@@ -1,6 +1,25 @@
 @import "fonts";
 @import "rouge-github";
 
+
+.contact-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.contact-links li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.contact-links .icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
 body {
   background-color: #fff;
   padding:50px;

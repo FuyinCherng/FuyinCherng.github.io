@@ -3,9 +3,22 @@ layout: default
 ---
 
 # Hello!
-I am Fu-Yin Cherng (程芙茵), currently serving as a tenure-track assistant professor in the [Department of Computer Science and Information Engineering at National Chung Cheng University](https://cs.ccu.edu.tw/?Lang=en). 
-My research combines human-computer interaction and physiological sensing to enhance user interactions with technology. My areas of expertise include Human-Computer Interaction, Brain-Computer Interface, Neuroergonomics, Learning Analytics, and Data-Driven Design.
-I have had the privilege to work with renowned professors and researchers in various institutions. I was a research assistant and a Ph.D. candidate (advisor: [Prof. Wen-Chieh (Steve) Lin](https://gpl.cs.nctu.edu.tw/members/)) at National Yang-Ming Chiao Tung University from 2013 to 2019, then worked as a doctoral research assistant at École Polytechnique fédérale de Lausanne (EPFL) from 2016-2017. Later, I worked as a postdoctoral researcher at UC Davis with [Prof. Hao-Chuan Wang](https://www.haochuanwang.info/) in 2019-2020 and with [Prof. Bing-Yu Chen](http://graphics.im.ntu.edu.tw/~robin/) at National Taiwan University in 2020-2021.
+I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng Universit since 2021. 
+My research integrates Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning. My goal is to enhance our understanding of how modern formats of information—such as online comments and short-form videos—influence cognitive processes, behaviors, and decision-making through the use of physiological data, including brain-sensing and eye-tracking.
+Based on these physiological insights, I aim to provide design recommendations that help digital systems assist and augment users' cognitive development while preserving their autonomy. My studies have focused on applying this approach in specific areas such as collective and peer comments, online and programming education, and notification design.
+
+# Education and Professional Experience
+I have had the privilege of working with outstanding professors and researchers before joining National Chung Cheng University. I completed my Ph.D. in Computer Science under the supervision of [Prof. Wen-Chieh (Steve) Lin](https://www.cs.nycu.edu.tw/members/detail/wclin) at National Yang-Ming Chiao Tung University from 2013 to 2019. During my Ph.D. studies, I had the opportunity to serve as a doctoral research assistant for [Prof. Pierre Dillenbourg]((https://people.epfl.ch/pierre.dillenbourg?lang=en)) at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, from 2016 to 2017.
+After graduating, I worked as a postdoctoral researcher at University of California, Davis with [Prof. Hao-Chuan Wang](https://www.haochuanwang.info/) from 2019 to 2020 and with [Prof. Bing-Yu Chen](http://graphics.im.ntu.edu.tw/~robin/) at National Taiwan University from 2020 to 2021.
+
+
+## Education & Professional Experience
+- Assistant Professor @ National Chung Cheng University, Taiwan (2021-Current)
+- Postdoctoral Researcher @ National Taiwan University, Taiwan (2020-2021) _Advisor: Prof. Bing-Yu Chen_
+- Postdoctoral Researcher @ University of California, Davis, USA (2019-2020) _Advisor: Prof. Hao-Chuan Wang_
+- Ph.D., Computer Science @ National Yang-Ming Chiao Tung University, Taiwan (2013-2019) _Advisor: Prof. Wen-Chieh (Steve) Lin_
+- Doctoral Research Assistant: École Polytechnique Fédérale de Lausanne (EPFL), Switzerland (2016-2017) _Advisor: Prof. Pierre Dillenbourg_
+- B.S., Computer Science @ National Yang-Ming Chiao Tung University, Taiwan (2009-2013)
 
 
 # Selected Publications
