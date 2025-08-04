@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Hello!
+# Hello! :wave:
 I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University since 2021. 
-My research integrates **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. My goal is to enhance our understanding of how modern formats of information—such as online comments and short-form videos—influence cognitive processes, behaviors, and decision-making through the use of physiological data, including brain-sensing and eye-tracking.
+My research integrates **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. 
+
+My goal is to enhance our understanding of how modern formats of information, such as online comments and short-form videos, influence cognitive processes, behaviors, and decision-making through the use of physiological data, including brain-sensing and eye-tracking.
 Based on these physiological insights, I aim to provide design recommendations that **help digital systems assist and augment users' cognitive development while preserving their autonomy**. My studies have focused on applying this approach in specific areas such as collective and peer comments, online and programming education, and notification design.
 
 ## Education & Professional Experience
