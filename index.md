@@ -19,13 +19,23 @@ Based on these physiological insights, I aim to provide design recommendations t
 - **B.S., Computer Science**, National Yang-Ming Chiao Tung University, Taiwan (2009-2013)
 
 ## Highlight Research Projects
-### Programming Education
+### Short-form Video and Sustained Attention
 WIP
 
+
+
+_Technologies: Social Computing, Neuromarketing, Virtual Reality_
+
+Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Info - CHI 2024]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 ******
 
-### ESL Learning
+### ESL Learning and Video Speed
 WIP 
+
+
+_Technologies: Social Computing, Neuromarketing, Virtual Reality_
+
+Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/abs/10.1145/3613904.3642366) [[Presentation Video - CHI 2024]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
 ******
 
