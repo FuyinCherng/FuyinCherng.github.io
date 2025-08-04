@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello! :wave:
+# Hello!
 I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University since 2021. 
 My research integrates **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. 
 
@@ -62,15 +62,13 @@ As a student who struggles with traditional assessments like exams, I advocate f
 - This mandatory undergraduate EMI course is taught from 2021 to 2025, introducing foundational programming in C.
 - The average class size is approximately 100 students each year.
 - The course consistently receives a mean feedback score of no lower than 4.5 out of 5 each year.
-
-[[Example Syllabus: Program Design I]](docs/PD1.pdf) [[Example Syllabus: Program Design II]](docs/PD2.pdf) [[Example of Project Description]](docs/PD2_Project.pdf)
+- [[Example Syllabus: Program Design I]](docs/PD1.pdf) [[Example Syllabus: Program Design II]](docs/PD2.pdf) [[Example of Project Description]](docs/PD2_Project.pdf)
 
 ### Human-Computer Interaction and Method of User Research 
 - This optional graduate course is taught in 2022 (EMI) and 2023, introducing Human-Computer Interaction.
 - The average class size is approximately 20 students, and I actively engaged them through in-class activities such as group discussions, design thinking exercises, and innovative collaborative games. 
 - The course was awarded the Excellent Courses Award (教學意見調查優良課程) and received a mean feedback score of nearly 4.9 out of 5.
-
-[ [Example Syllabus] ](docs/HCI_MUR.pdf)
+- [[Example Syllabus]](docs/HCI_MUR.pdf)
 
 ## Grants
 - 2025-2028: Co-PI for Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, NSTC
