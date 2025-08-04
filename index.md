@@ -20,32 +20,36 @@ Based on these physiological insights, I aim to provide design recommendations t
 
 ## Highlight Research Projects
 ### Short-form Video and Sustained Attention
-WIP
+![project_esl](assets/img/short_video.png)
+_2023 - 2024, National Chung Cheng University_
 
+This study explored the relationship between short-form video consumption and sustained attention. Through an online survey using a psychological test, we found that consuming more short-form videos is associated with poorer sustained attention. However, a follow-up long-term field experiment with regular sustained attention tests showed that changing the amount of time spent watching short-form videos did not significantly alter performance on these tests. These findings offer a preliminary look into the effects of short-form videos on sustained attention.
 
+_Keywords: Short Video, Sustained Attention_
 
-_Technologies: Social Computing, Neuromarketing, Virtual Reality_
+Resource: [[Paper - CHI 2024 LBW]]() [[Presentation Video - CHI 2024 LBW]](https://youtu.be/gaoniTdMlwQ)
 
-Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Info - CHI 2024]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 ******
 
 ### ESL Learning and Video Speed
-WIP 
+![project_esl](assets/img/esl_video.png)
+_2023 - 2024, National Chung Cheng University_
 
+We studied how different methods of adjusting video playback speed—direct versus gradual—affect English-as-a-Second-Language (ESL) learners. Using both objective metrics like pupil diameter and subjective survey feedback from 32 participants, we found that gradual adjustments were superior. This method enhanced the learners' flow state and video comprehension while being less distracting. _(Project image is generated using Gemini)_
 
-_Technologies: Social Computing, Neuromarketing, Virtual Reality_
+_Keywords: Educational Technology, Extensive Viewing, Cognitive Load, Flow State_
 
-Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/abs/10.1145/3613904.3642366) [[Presentation Video - CHI 2024]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
+Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/abs/10.1145/3613904.3642366) [[Presentation Video - CHI 2024]](https://youtu.be/byKymfzLrw0)
 
 ******
 
 ### Social Preference Effect in E-Commerce Context
 ![project_vreeg](assets/img/Pro_vreeg.png)
-_2019 - 2022, UC Davis, [CSC Lab](http://www.haochuanwang.info/) and [Looxid Labs](https://looxidlabs.com/mobile-home/)_
+_2019 - 2022, UC Davis_
 
 We studied users' internal and external preferences and the effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
 
-_Technologies: Social Computing, Neuromarketing, Virtual Reality_
+_Keywords: Social Computing, Neuromarketing, Virtual Reality_
 
 Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Info - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
@@ -59,14 +63,14 @@ As a student who struggles with traditional assessments like exams, I advocate f
 - The average class size is approximately 100 students each year.
 - The course consistently receives a mean feedback score of no lower than 4.5 out of 5 each year.
 
-[ [Example Syllabus: Program Design I] ](docs/PD1.pdf) [ [Example Syllabus: Program Design II] ](docs/PD2.pdf) [ [Example of Project Description] ](docs/PD2_Project.pdf)
+[[Example Syllabus: Program Design I]](docs/PD1.pdf) [[Example Syllabus: Program Design II]](docs/PD2.pdf) [[Example of Project Description]](docs/PD2_Project.pdf)
 
 ### Human-Computer Interaction and Method of User Research 
 - This optional graduate course is taught in 2022 (EMI) and 2023, introducing Human-Computer Interaction.
 - The average class size is approximately 20 students, and I actively engaged them through in-class activities such as group discussions, design thinking exercises, and innovative collaborative games. 
 - The course was awarded the Excellent Courses Award (教學意見調查優良課程) and received a mean feedback score of nearly 4.9 out of 5.
 
-[Example Syllabus](docs/HCI_MUR.pdf)
+[ [Example Syllabus] ](docs/HCI_MUR.pdf)
 
 ## Grants
 - 2025-2028: Co-PI for Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, NSTC
