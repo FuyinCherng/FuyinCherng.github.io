@@ -4,10 +4,11 @@ layout: default
 
 # Hello!
 I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University since 2021. 
-My research integrates **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. 
+My research interests include **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. 
 
-My goal is to enhance our understanding of how modern formats of information, such as online comments and short-form videos, influence cognitive processes, behaviors, and decision-making through the use of physiological data, including brain-sensing and eye-tracking.
-Based on these physiological insights, I aim to provide design recommendations that **help digital systems assist and augment users' cognitive development while preserving their autonomy**. My studies have focused on applying this approach in specific areas such as collective and peer comments, online and programming education, and notification design.
+My research vision is to uncover how contemporary information formats, such as online comments and short-form videos, shape cognitive processes, behaviors, and decision-making. I achieve this by integrating physiological data from brain-sensing and eye-tracking.
+Guided by these physiological insights, my ultimate goal is to provide design recommendations that augment user cognition while preserving autonomy. My work applies this unique approach to crucial domains, including collective and peer commentary, online and programming education, and notification design.
+
 
 ## Education & Professional Experience
 - **Assistant Professor**, National Chung Cheng University, Taiwan (2021-Current)
@@ -18,7 +19,7 @@ Based on these physiological insights, I aim to provide design recommendations t
 - **Doctoral Research Assistant**, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland (2016-2017) _Advisor: Prof. Pierre Dillenbourg_
 - **B.S., Computer Science**, National Yang-Ming Chiao Tung University, Taiwan (2009-2013)
 
-## Highlight Research Projects
+## Research Project Highlight
 ### Short-form Video and Sustained Attention
 ![project_esl](assets/img/short_video.png)
 _2023 - 2024, National Chung Cheng University_
@@ -35,7 +36,7 @@ Resource: [[Paper - CHI 2024 LBW]]() [[Presentation Video - CHI 2024 LBW]](https
 ![project_esl](assets/img/esl_video.png)
 _2023 - 2024, National Chung Cheng University_
 
-We studied how different methods of adjusting video playback speed—direct versus gradual—affect English-as-a-Second-Language (ESL) learners. Using both objective metrics like pupil diameter and subjective survey feedback from 32 participants, we found that gradual adjustments were superior. This method enhanced the learners' flow state and video comprehension while being less distracting. _(Project image is generated using Gemini)_
+We studied how different methods of adjusting video playback speed—direct versus gradual—affect English-as-a-Second-Language (ESL) learners. Using both objective metrics like pupil diameter and subjective survey feedback from 32 participants, we found that gradual adjustments were superior. This method enhanced the learners' flow state and video comprehension while being less distracting. 
 
 _Keywords: Educational Technology, Extensive Viewing, Cognitive Load, Flow State_
 
@@ -47,11 +48,12 @@ Resource: [[Paper - CHI 2024]](https://dl.acm.org/doi/abs/10.1145/3613904.364236
 ![project_vreeg](assets/img/Pro_vreeg.png)
 _2019 - 2022, UC Davis_
 
-We studied users' internal and external preferences and the effects of social conformity. Through self-report and biometric measures, we derived design implications for supporting users' decision-making process.
+We studied how displaying collective information, such as social ratings and reviews, influences users' decision-making. We used EEG signals to assess the cognitive responses of participants in a laboratory study. The results indicated that social information can alter user preferences and affect their attention, working memory, and emotions. Our predictive analysis also found that EEG-based measures are more powerful than behavioral measures at determining how this collective information is presented. The findings offer design implications for systems that use collective ratings.
+
 
 _Keywords: Social Computing, Neuromarketing, Virtual Reality_
 
-Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Info - CHI 2022]](https://programs.sigchi.org/chi/2022/program/content/72168) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
+Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [[Presentation Video - CHI 2022]](https://www.youtube.com/watch?v=TTcGIK-l7TE)
 
 ******
 
@@ -71,7 +73,7 @@ As a student who struggles with traditional assessments like exams, I advocate f
 - [[Example Syllabus]](docs/HCI_MUR.pdf)
 
 ## Grants
-- 2025-2028: Co-PI for Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, NSTC
-- 2024-2025: PI for Understanding the Short- and Long-Term Relationships Between Short Video Viewing and Sustained Attention, NSTC
-- 2022-2024: PI for Neuroprint: Enhancing the Trustworthiness of Collective Evaluation by Developing Multimodal Indicators of Social Impact and Intention, NSTC
-- 2021-2022: Co-PI for Project for Nurturing STEM and Female R&D Talent in Higher Education–Cross-Disciplinary Maker Talent Development Program for AI Industry, Ministry of Education
+- **2025-2028:** Co-PI for Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, NSTC
+- **2024-2025:** PI for Understanding the Short- and Long-Term Relationships Between Short Video Viewing and Sustained Attention, NSTC
+- **2022-2024:** PI for Neuroprint: Enhancing the Trustworthiness of Collective Evaluation by Developing Multimodal Indicators of Social Impact and Intention, NSTC
+- **2021-2022:** Co-PI for Project for Nurturing STEM and Female R&D Talent in Higher Education–Cross-Disciplinary Maker Talent Development Program for AI Industry, Ministry of Education
