@@ -57,7 +57,7 @@ Resource: [[Paper - CHI 2022]](https://dl.acm.org/doi/10.1145/3491102.3517726) [
 
 ******
 
-## Couese and Teaching Statement
+## Course and Teaching Statement
 As a student who struggles with traditional assessments like exams, I advocate for **project-based learning** and believe **collaborative learning** is essential. To support this, I design various in-class activities and open discussions, along with semester-long group projects that showcase diverse competencies. Also, I have taught several English as a Medium of Instruction (EMI) courses, which I believe are crucial for helping students connect with the international community. 
 
 ### Programming Design I & II
