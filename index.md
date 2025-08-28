@@ -4,9 +4,9 @@ layout: default
 
 # Hello!
 I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University since 2021. 
-My research interests include **Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Neuroergonomics, and Technology-Supported Learning**. 
+My research interests include **Human-Computer Interaction (HCI), Human-Centered AI (HCAI)/Human-AI Interaction (HAI), Neuroergonomics, Brain-Computer Interface, Technology-Supported Learning, Data-Driven Design**. 
 
-My research vision is to uncover how contemporary information formats, such as online comments and short-form videos, shape cognitive processes, behaviors, and decision-making. I achieve this by integrating physiological data from brain-sensing and eye-tracking.
+My research vision is to uncover how contemporary information formats, such as online comments and short-form videos, shape cognitive processes, behaviors, and decision-making. I achieve this vision by integrating physiological data from brain-sensing and eye-tracking.
 Guided by these physiological insights, my ultimate goal is to provide design recommendations that augment user cognition while preserving autonomy. My work applies this unique approach to crucial domains, including collective and peer commentary, online and programming education, and notification design.
 
 
@@ -73,7 +73,12 @@ As a student who struggles with traditional assessments like exams, I advocate f
 - [[Example Syllabus]](docs/HCI_MUR.pdf)
 
 ## Grants
-- **2025-2028:** Co-PI for Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, NSTC
-- **2024-2025:** PI for Understanding the Short- and Long-Term Relationships Between Short Video Viewing and Sustained Attention, NSTC
-- **2022-2024:** PI for Neuroprint: Enhancing the Trustworthiness of Collective Evaluation by Developing Multimodal Indicators of Social Impact and Intention, NSTC
-- **2021-2022:** Co-PI for Project for Nurturing STEM and Female R&D Talent in Higher Education–Cross-Disciplinary Maker Talent Development Program for AI Industry, Ministry of Education
+### Principal Investigator
+- **2025-2027:** Enhancing Emotion Regulation and Affective Grounding in Instant Messaging and Group Chat through AI-Mediated Communication, National Science and Technology Council (NSTC)
+- **2025:** Application of Human-Computer Interaction Design in Retrieval-Augmented Generation for Question Answering, Industry-academia Collaboration with Industrial Technology Research Institute (ITRI)
+- **2024-2025:** Understanding the Short-term and Long-term Relationship between Short-form Video Consumption and Sustained Attention, National Science and Technology Council (NSTC)
+- **2022-2024:** Neuroprint: Neuroprint: Promoting Credible Collective Reviews through Developing Neural-based Multimodal Metrics of Social Influence and Intention, National Science and Technology Council (NSTC)
+
+### Co-Principal Investigator
+- **2025-2028:** Developing a Highly Accurate and Trustworthy Community Fraud Prevention Mechanism for Public and Private Messages, National Science and Technology Council (NSTC)
+- **2021-2022:** Nurturing STEM and Female Talent in Higher Education–Cross-Disciplinary Maker Talent Development Program for AI Industry Ministry of Education
