@@ -13,7 +13,7 @@ Guided by these physiological insights, my ultimate goal is to provide design re
 ## Education & Professional Experience
 - **Assistant Professor**, National Chung Cheng University, Taiwan (2021-Current)
 - **Adjunct Assistant Professor**, National Taiwan University, Taiwan (2020-2021)
-- **Postdoctoral Researcher**, National Taiwan University, Taiwan (2020-2021) _Advisor: Prof. Bing-Yu Chen_
+- **Postdoctoral Researcher**, National Taiwan University, Taiwan (2020-2021) _Advisor: Prof. Bing-Yu (Robin) Chen_
 - **Postdoctoral Researcher**, University of California, Davis, USA (2019-2020) _Advisor: Prof. Hao-Chuan Wang_
 - **Ph.D., Computer Science**, National Yang-Ming Chiao Tung University, Taiwan (2013-2019) _Advisor: Prof. Wen-Chieh (Steve) Lin_
 - **Doctoral Research Assistant**, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland (2016-2017) _Advisor: Prof. Pierre Dillenbourg_
