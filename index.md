@@ -20,6 +20,20 @@ Guided by these physiological insights, my ultimate goal is to provide design re
 - **B.S., Computer Science**, National Yang-Ming Chiao Tung University, Taiwan (2009-2013)
 
 ## Research Project Highlight
+
+### Reconnecting Dormant Ties in Virtual Reality
+![project_esl](assets/img/tvcg_2025_socialVR.jpg)
+_2022 - 2025, National Chung Cheng University_
+
+This paper investigates the potential of Virtual Reality (VR) to facilitate the reactivation of dormant social ties, which is beneficial for well-being and reducing loneliness. An experiment involving 24 dyads found that avatar resemblance and virtual environments significantly influence social closeness and conversation, suggesting that VR features can be tailored to help people reconnect.
+
+_Keywords: Virtual Reality, Dormant Ties, Avatar Similarity, Virtual Environment, Nostalgia_
+
+Resource: [[Paper - IEEE TVCG 2025]](https://ieeexplore.ieee.org/abstract/document/11180930/) [[Video (Chinese)]](https://www.youtube.com/watch?v=AOP_xJjA98I)
+
+******
+
+
 ### Short-form Video and Sustained Attention
 ![project_esl](assets/img/short_video.png)
 _2023 - 2024, National Chung Cheng University_
@@ -28,7 +42,7 @@ This study explored the relationship between short-form video consumption and su
 
 _Keywords: Short Video, Sustained Attention_
 
-Resource: [[Paper - CHI 2024 LBW]]() [[Presentation Video - CHI 2024 LBW]](https://youtu.be/gaoniTdMlwQ)
+Resource: [[Paper - CHI 2024 LBW]](https://dl.acm.org/doi/abs/10.1145/3613905.3651018) [[Presentation Video - CHI 2024 LBW]](https://youtu.be/gaoniTdMlwQ)
 
 ******
 
