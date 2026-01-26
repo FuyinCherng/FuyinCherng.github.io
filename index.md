@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Hello!
-I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Chung Cheng University since 2021. 
+I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Cheng Kung University, starting from Feb. 2026. 
 My research interests include **Human-Computer Interaction (HCI), Human-Centered AI (HCAI)/Human-AI Interaction (HAI), Neuroergonomics, Brain-Computer Interface, Technology-Supported Learning, Data-Driven Design**. 
 
 My research vision is to uncover how contemporary information formats, such as online comments and short-form videos, shape cognitive processes, behaviors, and decision-making. I achieve this vision by integrating physiological data from brain-sensing and eye-tracking.
@@ -11,7 +11,8 @@ Guided by these physiological insights, my ultimate goal is to provide design re
 
 
 ## Education & Professional Experience
-- **Assistant Professor**, National Chung Cheng University, Taiwan (2021-Current)
+- **Assistant Professor**, National Cheng Kung University, Taiwan (2026-present)
+- **Assistant Professor**, National Chung Cheng University, Taiwan (2021-2026)
 - **Adjunct Assistant Professor**, National Taiwan University, Taiwan (2020-2021)
 - **Postdoctoral Researcher**, National Taiwan University, Taiwan (2020-2021) _Advisor: Prof. Bing-Yu (Robin) Chen_
 - **Postdoctoral Researcher**, University of California, Davis, USA (2019-2020) _Advisor: Prof. Hao-Chuan Wang_
