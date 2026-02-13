@@ -4,7 +4,7 @@ layout: default
 
 # Hello!
 I am Fu-Yin Cherng (程芙茵), currently a tenure-track assistant professor in the Department of Computer Science and Information Engineering at National Cheng Kung University, starting from Feb. 2026. 
-My research interests include **Human-Computer Interaction (HCI), Human-Centered AI (HCAI)/Human-AI Interaction (HAI), Neuroergonomics, Brain-Computer Interface, Technology-Supported Learning, and Data-Driven Design**. 
+My research interests include **Human-Computer Interaction (HCI), Human-Centered AI (HCAI)/Human-AI Interaction (HAX), Neuroergonomics, Brain-Computer Interface, and Technology-Supported Learning**. 
 
 My research vision is to uncover how contemporary information formats, such as online comments and short-form videos, shape cognitive processes, behaviors, and decision-making. I achieve this vision by integrating physiological data from brain-sensing and eye-tracking.
 Guided by these physiological insights, my ultimate goal is to provide design recommendations that augment user cognition while preserving autonomy. My work applies this unique approach to crucial domains, including collective and peer commentary, online and programming education, and notification design.
